@@ -1,0 +1,91 @@
+{
+  "data": {
+    "avatar": "https://github.com/robledokari/robledokari.github.io/blob/master/images/karina-robledo.jpg",
+    "name": "Karina Robledo H",
+    "profession": "BackEnd Developer",
+    "bio": "Learning to code is my passion. Build and dream every day ",
+    "address": "Mexico City, Mexico.",
+    "social": {
+      "0": {
+        "name": "facebook",
+        "url": "https://facebook.com/"
+      },
+      "1": {
+        "name": "twitter",
+        "url": "https://twitter.com/robledokari"
+      },
+      "2": {
+        "name": "github",
+        "url": "https://github.com/robledokari"
+      },
+      "3": {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/robledokari"
+      }
+    },
+    "experience": {
+      "0": {
+        "jobTitle": "Backend",
+        "company": "Amazing company",
+        "startDate": "Jan 2020",
+        "endDate": "Present",
+        "jobDescription": "Coding in Java for BackEnd"
+      },
+      "1": {
+        "jobTitle": "Backend",
+        "company": "Another amazing company",
+        "startDate": "Sept 2019",
+        "endDate": "Jan 2016",
+        "jobDescription": "Coding with HTML, CSS and Javascript"
+      }
+    },
+    "education": {
+      "0": {
+        "degree": "Computer Science",
+        "institution": "ESCOM IPN",
+        "startDate": "Agu 2013",
+        "endDate": "Jul 2017",
+        "description": "Promedio 9.3 / 10"
+      },
+      "1": {
+        "degree": "English",
+        "institution": "California State Universit",
+        "startDate": "Oct 2016",
+        "endDate": "Oct 2016",
+        "description": "Learning English in California it's the best"
+      }
+    },
+    "certificate": {
+      "0": {
+        "name": "BackEnd Developer",
+        "institution": "Platzi",
+        "date": "Jan 2021",
+        "description": "Learning to code "
+      },
+      "1": {
+        "name": "Backend Developer",
+        "institution": "Java",
+        "date": "Sep 2017",
+        "description": "Learning new cools things about Java"
+      }
+    },
+    "skills": {
+      "0": {
+        "name": "HTML5",
+        "percentage": "75%"
+      },
+      "1": {
+        "name": "CSS",
+        "percentage": "55%"
+      },
+      "2": {
+        "name": "JavaScript",
+        "percentage": "55%"
+      },
+      "3": {
+        "name": "React",
+        "percentage": "20%"
+      }
+    }
+  }
+}

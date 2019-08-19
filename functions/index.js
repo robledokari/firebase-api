@@ -7,7 +7,7 @@ const config = require('./firebase-config.json');
 // inicializamos nuestra aplicacion
 firebase.initializeApp({
   credential: firebase.credential.cert(config),
-  databaseURL: 'https://arepa-dev-api.firebaseio.com'
+  databaseURL: 'https://ttkarina-161322.firebaseio.com'
 });
 
 // creaamos la funcion que obtiene los recursos de nuestra firebase database
