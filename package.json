@@ -1,7 +1,7 @@
 {
   "name": "firebase-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Toda la información de este repositorio en el siguiente blogpost en Platzi: [Crear una API con Firebase Cloud Functions](https://platzi.com/blog/crear-api-firebase-cloud-functions).",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
